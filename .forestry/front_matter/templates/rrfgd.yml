@@ -1,4 +1,10 @@
 ---
 label: rrfgd
 hide_body: true
-fields: []
+fields:
+- name: words
+  type: text
+  config:
+    required: false
+  label: Words
+  description: EWFSAdfsd
